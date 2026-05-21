@@ -1,0 +1,16 @@
+# Archivos compilados de Java (No se deben subir)
+*.class
+*.jar
+*.war
+
+# Carpetas y archivos temporales de Visual Studio Code
+.vscode/
+.bin/
+bin/
+
+# Tu archivo de datos local (para que el profe lo descargue limpio desde cero)
+ruta.json
+
+# Archivos del sistema operativo
+Thumbs.db
+.DS_Store
